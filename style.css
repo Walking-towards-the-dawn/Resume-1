@@ -364,7 +364,6 @@ body {
 	color: #fff;
 	font-weight: 700;
 	text-transform: uppercase;
-	animation: neon1 1.5s ease-in-out infinite alternate;
 }
 
 @keyframes neon1 {
