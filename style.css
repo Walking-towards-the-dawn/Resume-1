@@ -365,14 +365,3 @@ body {
 	font-weight: 700;
 	text-transform: uppercase;
 }
-
-@keyframes neon1 {
-	from {
-		text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #e43045,
-			0 0 70px #e43045, 0 0 80px #e43045, 0 0 100px #e43045, 0 0 150px #e43045;
-	}
-	to {
-		text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #e43045,
-			0 0 35px #e43045, 0 0 40px #e43045, 0 0 50px #e43045, 0 0 75px #e43045;
-	}
-}
